@@ -7,14 +7,14 @@ packages:
       name: _fe_analyzer_shared
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "30.0.0"
+    version: "31.0.0"
   analyzer:
     dependency: transitive
     description:
       name: analyzer
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.7.0"
+    version: "2.8.0"
   analyzer_plugin:
     dependency: transitive
     description:
@@ -161,7 +161,7 @@ packages:
       name: cached_network_image
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.1.0+1"
+    version: "3.2.0"
   cached_network_image_platform_interface:
     dependency: transitive
     description:
@@ -238,7 +238,7 @@ packages:
       name: connectivity_plus
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.3"
+    version: "2.1.0"
   connectivity_plus_linux:
     dependency: transitive
     description:
@@ -329,7 +329,7 @@ packages:
       name: dart_code_metrics
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "4.7.0"
+    version: "4.8.1"
   dart_geohash:
     dependency: "direct main"
     description:
@@ -544,7 +544,7 @@ packages:
       name: flutter_cache_manager
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.2.0"
+    version: "3.3.0"
   flutter_colorpicker:
     dependency: transitive
     description:
@@ -578,7 +578,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "7c6b3d9545528e760aaba31ef6f298d850f876cf"
+      resolved-ref: "6ea9d23e106dacbc0561054ad6dd397d0eb073e0"
       url: "https://github.com/metaflowltd/flutter_health_fit.git"
     source: git
     version: "0.1.0"
@@ -642,7 +642,7 @@ packages:
       name: flutter_native_splash
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.3.1"
+    version: "1.3.2"
   flutter_native_timezone:
     dependency: "direct main"
     description:
@@ -663,7 +663,7 @@ packages:
       name: flutter_quill
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.21"
+    version: "2.2.1"
   flutter_secure_storage:
     dependency: "direct main"
     description:
@@ -743,7 +743,7 @@ packages:
       name: freezed
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.0"
+    version: "1.0.2+1"
   freezed_annotation:
     dependency: "direct main"
     description:
@@ -862,7 +862,7 @@ packages:
       name: image
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.0.8"
+    version: "3.1.0"
   image_picker:
     dependency: transitive
     description:
@@ -918,14 +918,14 @@ packages:
       name: json_annotation
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "4.3.0"
+    version: "4.4.0"
   json_serializable:
     dependency: "direct dev"
     description:
       name: json_serializable
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "6.0.1"
+    version: "6.1.1"
   just_audio:
     dependency: "direct main"
     description:
@@ -1030,7 +1030,7 @@ packages:
       name: material_design_icons_flutter
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "5.0.6295"
+    version: "5.0.6595"
   meta:
     dependency: transitive
     description:
@@ -1100,7 +1100,7 @@ packages:
       name: octo_image
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.0+1"
+    version: "1.0.1"
   package_config:
     dependency: transitive
     description:
@@ -1163,7 +1163,7 @@ packages:
       name: path_provider
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.7"
+    version: "2.0.8"
   path_provider_android:
     dependency: transitive
     description:
@@ -1191,7 +1191,7 @@ packages:
       name: path_provider_macos
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.3"
+    version: "2.0.4"
   path_provider_platform_interface:
     dependency: transitive
     description:
@@ -1261,7 +1261,7 @@ packages:
       name: platform
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.0.2"
+    version: "3.1.0"
   plugin_platform_interface:
     dependency: transitive
     description:
@@ -1324,7 +1324,7 @@ packages:
       name: pubspec_parse
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.1.0"
+    version: "1.2.0"
   qr:
     dependency: transitive
     description:
@@ -1382,7 +1382,7 @@ packages:
       name: sentry
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "6.1.2"
+    version: "6.2.0"
   sentry_dart_plugin:
     dependency: "direct dev"
     description:
@@ -1396,7 +1396,7 @@ packages:
       name: sentry_flutter
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "6.1.2"
+    version: "6.2.0"
   shelf:
     dependency: transitive
     description:
@@ -1450,7 +1450,7 @@ packages:
       name: source_gen
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.1.1"
+    version: "1.2.0"
   source_helper:
     dependency: transitive
     description:
@@ -1492,7 +1492,7 @@ packages:
       name: sqflite
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.0+4"
+    version: "2.0.1"
   sqflite_common:
     dependency: transitive
     description:
@@ -1506,21 +1506,21 @@ packages:
       name: sqlite3
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.3.1"
+    version: "1.4.0"
   sqlite3_flutter_libs:
     dependency: "direct main"
     description:
       name: sqlite3_flutter_libs
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.5.1"
+    version: "0.5.2"
   sqlparser:
     dependency: transitive
     description:
       name: sqlparser
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.18.0"
+    version: "0.18.1"
   stack_trace:
     dependency: transitive
     description:
@@ -1562,14 +1562,14 @@ packages:
       name: syncfusion_flutter_core
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "19.3.55"
+    version: "19.3.57"
   syncfusion_flutter_datepicker:
     dependency: "direct main"
     description:
       name: syncfusion_flutter_datepicker
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "19.3.55"
+    version: "19.3.57"
   synchronized:
     dependency: transitive
     description:
@@ -1667,7 +1667,21 @@ packages:
       name: url_launcher
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "6.0.15"
+    version: "6.0.17"
+  url_launcher_android:
+    dependency: transitive
+    description:
+      name: url_launcher_android
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "6.0.13"
+  url_launcher_ios:
+    dependency: transitive
+    description:
+      name: url_launcher_ios
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "6.0.13"
   url_launcher_linux:
     dependency: transitive
     description:
@@ -1695,7 +1709,7 @@ packages:
       name: url_launcher_web
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.4"
+    version: "2.0.5"
   url_launcher_windows:
     dependency: transitive
     description:
@@ -1817,4 +1831,4 @@ packages:
     version: "8.0.0"
 sdks:
   dart: ">=2.14.0 <3.0.0"
-  flutter: ">=2.5.0"
+  flutter: ">=2.8.0"
